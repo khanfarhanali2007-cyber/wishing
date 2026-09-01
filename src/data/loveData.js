@@ -52,19 +52,19 @@ export const loveData = {
   ],
   memories: [
     {
-      src: '/assets/memory1.jpg',
+      src: './assets/memory1.jpg',
       caption: 'The beginning of something beautiful.',
     },
     {
-      src: '/assets/memory2.jpg',
+      src: './assets/memory2.jpg',
       caption: 'Our favorite little moments.',
     },
     {
-      src: '/assets/memory3.jpg',
+      src: './assets/memory3.jpg',
       caption: 'A quiet memory that still feels golden.',
     },
     {
-      src: '/assets/memory4.jpg',
+      src: './assets/memory4.jpg',
       caption: 'The kind of happiness I never want to lose.',
     },
   ],
@@ -120,7 +120,7 @@ export const loveData = {
   },
   song: {
     title: 'Blue',
-    url: '/assets/our-song.mp3',
+    url: './assets/our-song.mp3',
   },
   final: {
     eyebrow: 'One More Thing...',
